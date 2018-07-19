@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/piyush97/Node-ChatApp-API.svg?branch=master)](https://travis-ci.org/piyush97/Node-ChatApp-API)
